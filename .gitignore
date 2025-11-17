@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+
+# Build and cache artifacts
+dist/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Uploaded assets and local data
+uploads/
+tmp/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
